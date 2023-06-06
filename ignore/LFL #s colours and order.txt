@@ -1,0 +1,33 @@
+colors={['#0707FF',
+		'#3737FF',
+		'#B7B7FF',
+		'#D1D1FF',
+		'#D9D9FF',
+		'#DBDBFF',
+		'#DCDCFF',
+		'#E0E0FF',
+		'#E3E3FF',
+		'#E4E4FF',
+		'#ECECFF',
+		'#EFEFFF',
+		'#F0F0FF',
+		'#F1F1FF',
+		'#F4F4FF',
+		'#111111']}
+        
+        
+Victoria
+Saanich
+Oak Bay
+Esquimalt
+North Saanich
+Langford
+Central Saanich
+Colwood
+View Royal
+Sooke
+Metchosin
+Sidney
+Highlands
+Juan de Fuca (Part 1)
+Juan de Fuca (Part 2)

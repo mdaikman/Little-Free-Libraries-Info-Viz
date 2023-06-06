@@ -1,0 +1,287 @@
+[
+    {
+      "id": "Victoria",
+      "data": [
+        {
+           "Census subdivision name": "Victoria",
+			"LFLs & Density": "194, 9.152/Km²",
+            "Population Total & Density 2016": "85792, 4405/Km²",
+			"LFLs per Pop Density": "0.044",
+			"Land Area (Km²)": "19",
+			"Median Age": "43",
+			"Household Income Median": "$53,126",
+			"Semi, Single & Total Detached Houses": "1140, 6545, 7685",
+			"Primary language: English, French": "75830, 430",
+			"Primary language: Non Official count, %": "4420, 5.15%",
+			"People of Aboriginal Identity": "3780",
+			"Visible Minority % Total": "30.25%"
+		}
+	  ]
+	},
+    {
+      "id": "Saanich",
+      "data": [
+        {
+           "Census subdivision name": "Saanich",
+			"LFLs & Density": "155, 1.39/Km²",
+            "Population Total & Density 2016": "114148, 1099/Km²",
+			"LFLs per Pop Density": "0.141",
+			"Land Area (Km²)": "103",
+			"Median Age": "44",
+			"Household Income Median": "$77,282",
+			"Semi, Single & Total Detached Houses": "1185, 22145, 23330",
+			"Primary language: English, French": "97675, 390",
+			"Primary language: Non Official count, %": "10610, 9.29%",
+			"Aboriginal Identity": "3490",
+			"Visible Minority % Total": "44.22%"
+		}
+	  ]
+	},
+    {
+      "id": "Oak Bay",
+      "data": [
+        {
+           "Census subdivision name": "Oak Bay",
+			"LFLs & Density": "51, 3.387/Km²",
+            "Population Total & Density 2016": "18094, 1717/Km²",
+			"LFLs per Pop Density":"0.03",
+			"Land Area (Km²)": "10",
+			"Median Age": "53",
+			"Household Income Median": "$93,529",
+			"Semi, Single & Total Detached Houses": "105, 4900, 5005",
+			"Primary language: English, French": "16695, 80",
+			"Primary language: Non Official count, %": "675, 3.73%",
+			"Aboriginal Identity": "255",
+			"Visible Minority % Total": "21.24%"
+		}
+	  ]
+	},
+    {
+      "id": "Esquimalt",
+      "data": [
+        {
+           "Census subdivision name": "Esquimalt",
+			"LFLs & Density": "29, 2.632/Km²",
+            "Population Total & Density 2016": "17655, 2494/Km²",
+			"LFLs per Pop Density": "0.012",
+			"Land Area (Km²)": "7",
+			"Median Age": "43",
+			"Household Income Median": "$60,424",
+			"Semi, Single & Total Detached Houses": "690, 1995, 2685",
+			"Primary language: English, French": "16125, 325",
+			"Primary language: Non Official count, %": "585, 3.31%",
+			"Aboriginal Identity": "1190",
+			"Visible Minority % Total": "20.33%"
+		}
+	  ]
+	},
+    {
+      "id": "North Saanich",
+      "data": [
+        {
+           "Census subdivision name": "North Saanich",
+			"LFLs & Density": "23, 0.485/Km²",
+            "Population Total & Density 2016": "11249, 301/Km²",
+			"LFLs per Pop Density": "0.076",
+			"Land Area (Km²)": "37",
+            "Median Age": "56",
+			"Household Income Median": "$103,296",
+            "Semi, Single & Total Detached Houses": "90, 3745, 3835",
+			"Primary language: English, French": "10865, 25",
+			"Primary language: Non Official count, %": "230, 2.04%",
+			"Aboriginal Identity": "190",
+			"Visible Minority % Total": "10.77%"
+		}
+	  ]
+	},
+    {
+      "id": "Langford",
+      "data": [
+        {
+           "Census subdivision name": "Langford",
+			"LFLs & Density": "21, 0.504/Km²",
+            "Population Total & Density 2016": "35342, 885/Km²",
+			"LFLs per Pop Density": "0.024",
+			"Land Area (Km²)": "39",
+			"Median Age": "38",
+			"Household Income Median": "$80,331",
+			"Semi, Single & Total Detached Houses": "740, 5655, 6395",
+			"Primary language: English, French": "33020, 180",
+			"Primary language: Non Official count, %": "1160, 3.28%",
+			"Aboriginal Identity": "2090",
+			"Visible Minority % Total": "20.6%"
+		}
+	  ]
+	},
+    {
+      "id": "Central Saanich",
+      "data": [
+        {
+           "Census subdivision name": "Central Saanich",
+			"LFLs & Density": "20, 0.415/Km²",
+            "Population Total & Density 2016": "16814, 406/Km²",
+			"LFLs per Pop Density": "0.049",
+			"Land Area (Km²)": "41",
+            "Median Age": "50",
+			"Household Income Median": "$86,622",
+            "Semi, Single & Total Detached Houses": "175, 3750, 3925",
+			"Primary language: English, French": "15800, 25",
+            "Primary language: Non Official count, %": "380, 2.26%",
+			"Aboriginal Identity": "660",
+			"Visible Minority % Total": "12.85%"
+		}
+	  ]
+	},
+    {
+      "id": "Colwood",
+      "data": [
+        {
+           "Census subdivision name": "Colwood",
+			"LFLs & Density": "17, 0.801/Km²",
+            "Population Total & Density 2016": "16859, 954/Km²",
+			"LFLs per Pop Density": "0.018",
+			"Land Area (Km²)": "17",
+            "Median Age": "41",
+			"Household Income Median": "$85,668",
+            "Semi, Single & Total Detached Houses": "740, 3360, 4100",
+			"Primary language: English, French": "16135, 125",
+			"Primary language: Non Official count, %": "325, 1.93%",
+			"Aboriginal Identity": "840",
+			"Visible Minority % Total": "14.94%"
+		}
+	  ]
+	},
+    {
+      "id": "View Royal",
+      "data": [
+        {
+           "Census subdivision name": "View Royal",
+			"LFLs & Density": "15, 0.894/Km²",
+            "Population Total & Density 2016": "10408, 724/Km²",
+			"LFLs per Pop Density": "0.021",
+			"Land Area (Km²)": "14",
+            "Median Age": "44",
+			"Household Income Median": "$83,994",
+            "Semi, Single & Total Detached Houses": "170, 1655, 1825",
+			"Primary language: English, French": "9520, 70",
+            "Primary language: Non Official count, %": "515, 4.95%",
+            "Aboriginal Identity": "435",
+			"Visible Minority % Total": "28.82%"
+		}
+	  ]
+	},
+    {
+      "id": "Sooke",
+      "data": [
+        {
+           "Census subdivision name": "Sooke",
+			"LFLs & Density": "14, 0.21/Km²",
+            "Population Total & Density 2016": "13001, 229/Km²",
+			"LFLs per Pop Density": "0.061",
+			"Land Area (Km²)": "56",
+            "Median Age": "43",
+			"Household Income Median": "$71,296",
+            "Semi, Single & Total Detached Houses": "375, 3440, 3815",
+			"Primary language: English, French": "12620, 85",
+			"Primary language: Non Official count, %": "160, 1.23%",		
+			"Aboriginal Identity": "865",
+			"Visible Minority % Total": "7.19%"
+		}
+	  ]
+	},
+    {
+      "id": "Metchosin",
+      "data": [
+        {
+           "Census subdivision name": "Metchosin",
+			"LFLs & Density": "7, 0.087/Km²",
+            "Population Total & Density 2016": "4708, 66/Km²",
+			"LFLs per Pop Density": "0.106",
+			"Land Area (Km²)": "71",
+            "Median Age": "51",
+			"Household Income Median": "$87,625",
+            "Semi, Single & Total Detached Houses": "65, 1420, 1485",
+			"Primary language: English, French": "4430, 20",
+            "Primary language: Non Official count, %": "35, 0.74%",
+			"Aboriginal Identity": "135",
+			"Visible Minority % Total": "6.22%"
+		}
+	  ]
+	},
+    {
+      "id": "Sidney",
+      "data": [
+        {
+           "Census subdivision name": "Sidney",
+			"LFLs & Density": "5, 0.685/Km²",
+            "Population Total & Density 2016": "11672, 2290/Km²",
+			"LFLs per Pop Density": "0.002",
+			"Land Area (Km²)": "5",
+            "Median Age": "59",
+			"Household Income Median": "$63,840",
+            "Semi, Single & Total Detached Houses": "465, 1995, 2460",
+			"Primary language: English, French": "10915, 35",
+			"Primary language: Non Official count, %": "305, 2.61%",
+			"Aboriginal Identity": "360",
+			"Visible Minority % Total": "12.45%"
+		}
+	  ]
+	},
+    {
+      "id": "Highlands",
+      "data": [
+        {
+           "Census subdivision name": "Highlands",
+			"LFLs & Density": "4, 0.097/Km²",
+            "Population Total & Density 2016": "2225, 58/Km²",
+			"LFLs per Pop Density": "0.069",
+			"Land Area (Km²)": "38",
+            "Median Age": "45",
+			"Household Income Median": "$103,509",
+            "Semi, Single & Total Detached Houses": "5, 790, 795",
+			"Primary language: English, French": "2175, 5",
+            "Primary language: Non Official count, %": "30, 1.35%",
+			"Aboriginal Identity": "50",
+			"Visible Minority % Total": "6.7%"
+		}
+	  ]
+	},
+    {
+      "id": "Juan de Fuca (Part 1)",
+      "data": [
+        {
+           "Census subdivision name": "Juan de Fuca (Part 1)",
+			"LFLs & Density": "3, 0.003/Km²",
+            "Population Total & Density 2016": "4670, 21/Km²",
+			"LFLs per Pop Density": "0.143",
+			"Land Area (Km²)": "221",
+            "Median Age": "49",
+			"Household Income Median": "$76,288",
+            "Semi, Single & Total Detached Houses": "35, 1715, 1750",
+			"Primary language: English, French": "4560, 15",
+			"Primary language: Non Official count, %": "50, 1.07%",
+			"Aboriginal Identity": "195",
+			"Visible Minority % Total": "7.63%"
+		}
+	  ]
+	},
+    {
+      "id": "Juan de Fuca (Part 2)",
+      "data": [
+        {
+           "Census subdivision name": "Juan de Fuca (Part 2)",
+			"LFLs & Density": "1, <0.001/Km²",
+            "Population Total & Density 2016": "190, 0.1498/Km²",
+			"LFLs per Pop Density": "<0.001",
+			"Land Area (Km²)": "1268",
+            "Median Age": "52",
+			"Household Income Median": "$61,760",
+            "Semi, Single & Total Detached Houses": "0, 85, 85",
+			"Primary language: English, French": "180, 0",
+            "Primary language: Non Official count, %": "10, 5.26%",
+			"Aboriginal Identity": "0",
+			"Visible Minority % Total": "16.67%"
+        }
+      ]
+    }
+ ]
